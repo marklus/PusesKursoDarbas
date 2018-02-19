@@ -1,0 +1,7 @@
+C:\Users\Martynas\source\repos\Vidurio_Kurso_Atsiskaitymas_1\Vidurio_Kurso_Atsiskaitymas_3\bin\Debug\Vidurio_Kurso_Atsiskaitymas_3.exe.config
+C:\Users\Martynas\source\repos\Vidurio_Kurso_Atsiskaitymas_1\Vidurio_Kurso_Atsiskaitymas_3\bin\Debug\Vidurio_Kurso_Atsiskaitymas_3.exe
+C:\Users\Martynas\source\repos\Vidurio_Kurso_Atsiskaitymas_1\Vidurio_Kurso_Atsiskaitymas_3\bin\Debug\Vidurio_Kurso_Atsiskaitymas_3.pdb
+C:\Users\Martynas\source\repos\Vidurio_Kurso_Atsiskaitymas_1\Vidurio_Kurso_Atsiskaitymas_3\obj\Debug\Vidurio_Kurso_Atsiskaitymas_3.csprojResolveAssemblyReference.cache
+C:\Users\Martynas\source\repos\Vidurio_Kurso_Atsiskaitymas_1\Vidurio_Kurso_Atsiskaitymas_3\obj\Debug\Vidurio_Kurso_Atsiskaitymas_3.csproj.CoreCompileInputs.cache
+C:\Users\Martynas\source\repos\Vidurio_Kurso_Atsiskaitymas_1\Vidurio_Kurso_Atsiskaitymas_3\obj\Debug\Vidurio_Kurso_Atsiskaitymas_3.exe
+C:\Users\Martynas\source\repos\Vidurio_Kurso_Atsiskaitymas_1\Vidurio_Kurso_Atsiskaitymas_3\obj\Debug\Vidurio_Kurso_Atsiskaitymas_3.pdb
